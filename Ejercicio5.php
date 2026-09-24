@@ -6,7 +6,7 @@ $mensaje = $mensaje  ." Mundo";
 echo $mensaje ."</br>";
 $mensaje = $mensaje  ." Maravilloso";
 echo $mensaje ."</br>";
-//archivo modificado
+//cambios realizados en la rama de prueba
 
 
 
