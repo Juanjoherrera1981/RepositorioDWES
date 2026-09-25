@@ -11,6 +11,6 @@ echo "Estas logueado?";
 var_dump(!$logueado);
 echo "Eres aministrador o voluntario?";
 var_dump($administrador xor $voluntario) ;
-
+// comentario
 
 ?>
